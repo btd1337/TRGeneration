@@ -1,3 +1,4 @@
+package br.com.ufjf.trgeneration;
 
 public class EdgePair {
 	private int start;		// (A, B, C): A=start, B=middle, C=end

@@ -1,3 +1,4 @@
+package br.com.ufjf.trgeneration;
 
 public class Edge {
     private int start;			// Edge start point

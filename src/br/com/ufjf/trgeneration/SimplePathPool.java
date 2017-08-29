@@ -1,4 +1,5 @@
-import java.util.*;
+package br.com.ufjf.trgeneration;
+import java.util.Iterator;
 
 public class SimplePathPool extends SimplePathList {
 	

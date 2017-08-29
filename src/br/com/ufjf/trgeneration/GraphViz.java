@@ -1,3 +1,4 @@
+package br.com.ufjf.trgeneration;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;

@@ -1,3 +1,4 @@
+package br.com.ufjf.trgeneration;
 
 public class Node {
 	private int node_number;	// Node number

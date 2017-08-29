@@ -1,5 +1,11 @@
+package br.com.ufjf.trgeneration;
 import java.io.File;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
 
 public class Graph {
 	private List<Node> nodes;		// Node list

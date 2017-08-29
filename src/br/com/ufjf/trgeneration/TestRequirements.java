@@ -1,4 +1,9 @@
-import java.util.*;
+package br.com.ufjf.trgeneration;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
 
 
 public class TestRequirements {

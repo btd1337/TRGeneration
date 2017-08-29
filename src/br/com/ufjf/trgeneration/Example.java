@@ -1,3 +1,4 @@
+package br.com.ufjf.trgeneration;
 
 //	x = 0;
 //	while(x < y)
