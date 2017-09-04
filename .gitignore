@@ -1,9 +1,0 @@
-.settings/
-bin/
-build/
-trgeneration/bin
-trgeneration/tmp
-trgeneration/output
-trgeneration/output/out.png
-out.png
-/target/
